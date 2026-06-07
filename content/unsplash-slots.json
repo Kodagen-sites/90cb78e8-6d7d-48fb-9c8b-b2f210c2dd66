@@ -1,0 +1,17 @@
+[
+  { "slot": "section-about-hero",    "keyword": "modern squash club interior",        "orientation": "landscape" },
+  { "slot": "section-contact-hero",  "keyword": "sports club reception desk",          "orientation": "landscape" },
+  { "slot": "section-services-hero", "keyword": "squash court glass back wall",         "orientation": "landscape" },
+  { "slot": "section-cta",           "keyword": "squash player action silhouette",      "orientation": "landscape" },
+  { "slot": "og-image",              "keyword": "modern squash court interior",         "orientation": "landscape", "w": 1200, "h": 630 },
+  { "slot": "service-court-hire",    "keyword": "empty squash court glass",             "orientation": "landscape" },
+  { "slot": "service-coaching",      "keyword": "squash coach instructing player",      "orientation": "landscape" },
+  { "slot": "service-leagues",       "keyword": "competitive squash match players",     "orientation": "landscape" },
+  { "slot": "service-junior-academy","keyword": "child learning squash lesson",         "orientation": "landscape" },
+  { "slot": "service-squash-fitness","keyword": "indoor fitness training gym",          "orientation": "landscape" },
+  { "slot": "service-membership",    "keyword": "sports club lounge interior",          "orientation": "landscape" },
+  { "slot": "gallery-1",             "keyword": "squash racquet and ball closeup",      "orientation": "landscape" },
+  { "slot": "gallery-2",             "keyword": "squash players shaking hands court",    "orientation": "portrait" },
+  { "slot": "gallery-3",             "keyword": "squash court from above overhead",      "orientation": "landscape" },
+  { "slot": "gallery-4",             "keyword": "athlete tying shoes sports locker",     "orientation": "portrait" }
+]
